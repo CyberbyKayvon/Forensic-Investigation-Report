@@ -3,7 +3,7 @@ This project presents a full forensic investigation of a Windows XP system image
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Identify user accounts and login activity
 - Discover installed software and communication tools
@@ -14,7 +14,7 @@ This project presents a full forensic investigation of a Windows XP system image
 
 ---
 
-## 🔧 Tools & Methods
+## Tools & Methods
 
 - **Autopsy**: for image parsing, file carving, artifact extraction
 - **RegRipper**: for Windows registry analysis
@@ -24,7 +24,7 @@ This project presents a full forensic investigation of a Windows XP system image
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
 /forensic-investigation-xp
 ├── README.md
@@ -44,7 +44,7 @@ This project presents a full forensic investigation of a Windows XP system image
 
 ---
 
-## 🧠 Key Findings
+## Key Findings
 
 - **Users Identified**: `domex1` (active), `domex2` (never logged in)
 - **Email Evidence**: Multiple emails sent with file attachments (.docx, .xlsx)
@@ -55,7 +55,7 @@ This project presents a full forensic investigation of a Windows XP system image
 
 ---
 
-## 🔍 Highlights
+## Highlights
 
 - **Emails with attachments**: Word and Excel files sent to outside addresses
 - **Buddy list analysis**: IM contacts and aliases suggest regular external communication
@@ -73,7 +73,7 @@ View the `/screenshots` folder for key visuals:
 
 ---
 
-## 🛡️ Security Takeaways
+## Security Takeaways
 
 - **Communication channels** (email, IM) were active and potentially misused
 - **Deleted file artifacts** can still be recovered with proper tools
@@ -82,7 +82,7 @@ View the `/screenshots` folder for key visuals:
 
 ---
 
-## 📅 Project Info
+## Project Info
 
 - **Student**: Kayvon Karimi  
 - **Course**: CYBR-512 – Incident Detection and Handling  
